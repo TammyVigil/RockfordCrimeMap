@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  RockfordCrimeMap
 //
-//  Created by CHuck Konkol
+//  Created by Tammy Vigil
 //
 
 //1 Imports
